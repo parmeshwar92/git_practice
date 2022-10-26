@@ -16,6 +16,7 @@ public class GitPracticeApplication {
 		logger.info("third commit");
 		logger.info("fourth commit");
 		logger.info("fifth commit");
+		logger.info("six added  for cherry commit");
 	}
 
 }
