@@ -12,6 +12,7 @@ public class GitPracticeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitPracticeApplication.class, args);
 		logger.info("first commit");
+		logger.info("second commit");
 	}
 
 }
