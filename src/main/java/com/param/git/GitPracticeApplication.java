@@ -14,6 +14,8 @@ public class GitPracticeApplication {
 		logger.info("first commit");
 		logger.info("second commit");
 		logger.info("third commit");
+		logger.info("fourth commit");
+		logger.info("fifth commit");
 	}
 
 }
