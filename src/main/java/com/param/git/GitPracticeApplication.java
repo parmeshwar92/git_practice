@@ -11,13 +11,7 @@ public class GitPracticeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitPracticeApplication.class, args);
-		logger.info("first commit");
-		logger.info("second commit");
-		logger.info("third commit");
-		logger.info("fourth commit");
-		logger.info("fifth commit");
-		logger.info("six added  for cherry commit");
-		logger.info("seventh commit");
+		logger.info("welcome to spring boot application");
 	}
 
 }
